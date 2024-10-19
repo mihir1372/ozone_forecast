@@ -1,0 +1,23 @@
+Here’s a brief summary of the columns:
+
+1)  Date: Date of observation.
+2)  Source: Data source, likely indicating where the data was collected from (e.g., AQS).
+3)  Site ID: Identification number for the monitoring site.
+4)  POC: Parameter Occurrence Code.
+5)  Daily Max 8-hour Ozone Concentration: The maximum 8-hour average ozone concentration measured that day (in        ppm).
+6)  Units: Unit of the ozone concentration (e.g., ppm).
+7)  Daily AQI Value: The Air Quality Index (AQI) value for that day.
+8)  Local Site Name: The name of the local monitoring site.
+9)  Daily Obs Count: Number of observations recorded that day.
+10)Percent Complete: Completeness of the data for that day (in percentage).
+11)AQS Parameter Code: Code representing the parameter measured (ozone in this case).
+12)AQS Parameter Description: Description of the parameter (likely "Ozone").
+13)Method Code: Code representing the method used to measure ozone.
+14)CBSA Code: Core-Based Statistical Area code.
+15)CBSA Name: Name of the Core-Based Statistical Area (e.g., Raleigh, NC).
+16)State FIPS Code: State's Federal Information Processing Standards code.
+17)State: Name of the state.
+18)County FIPS Code: County's FIPS code.
+19)County: Name of the county.
+20)Site Latitude: Latitude of the monitoring site.
+21)Site Longitude: Longitude of the monitoring site.
